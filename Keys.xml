@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--FRENCH-->
+<LanguageData>
+	<MortarAccuracy>Mortar Accuracy</MortarAccuracy>
+	<OptionWeather>Les conditions météorologiques affectent la précision</OptionWeather>
+	<OptionSkills>Quelle(s) compétence(s) affectent la précision. Si plusieurs compétences sont sélectionnées, elles sont moyennées ensemble.</OptionSkills>
+	<OptionSkillIntellectual>La compétence intellectuelle affecte la précision</OptionSkillIntellectual>
+	<OptionSkillShooting>La compétence de tir affecte la précision</OptionSkillShooting>
+	<OptionBestAccuracy>Meilleure précision\nLes pions avec une compétence maximale voient leur précision de mortier améliorée à {0}% (la version originale est de 0%, la valeur par défaut du mod est de 75%, la précision parfaite est de 100%)</OptionBestAccuracy>
+	<OptionWorstAccuracy>Pire précision\nLes pions sans compétence voient leur précision de mortier {0} de {1}% (la version originale est de 0%, la valeur par défaut du mod est de -50%)</OptionWorstAccuracy>
+	<Improved>améliorée</Improved>
+	<Reduced>réduite</Reduced>
+	<OptionShowAccuracy>Afficher le rayon de précision au lieu du rayon d'explosion</OptionShowAccuracy>
+	<OptionShowExplosionRadius>Afficher le rayon d'explosion</OptionShowExplosionRadius>
+	<OptionCover>Le couvert réduit la précision</OptionCover>
+	<OptionLeadTarget>Permettre aux colons de viser devant leurs cibles</OptionLeadTarget>
+	<OptionTargetLeading>Viser automatiquement devant les cibles en mouvement</OptionTargetLeading>
+</LanguageData>
